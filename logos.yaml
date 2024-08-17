@@ -1,0 +1,390 @@
+﻿quirks:
+  - name: "Amnesiac"
+    category: "Logos"
+    description: "Having lost or forgotten memories."
+    boons:
+      - "You can start anew without the burden of past mistakes."
+      - "You may have hidden talents or skills."
+    flaws:
+      - "You may struggle to recall important information."
+      - "Your forgotten past may catch up with you."
+  
+  - name: "Anal"
+    category: "Logos"
+    description: "Excessively orderly."
+    boons:
+      - "You are highly organized and detail-oriented."
+      - "You can maintain a high level of cleanliness and order."
+    flaws:
+      - "You can be seen as obsessive and inflexible."
+      - "Your need for order may cause stress."
+  
+  - name: "Atravieso"
+    category: "Logos"
+    description: "Prone to fiddling."
+    boons:
+      - "You are curious and hands-on."
+      - "You can discover new things through experimentation."
+    flaws:
+      - "You can be seen as distracted and unfocused."
+      - "Your fiddling may lead to unintended consequences."
+  
+  - name: "Banal"
+    category: "Logos"
+    description: "Lacking originality and freshness."
+    boons:
+      - "You are practical and down-to-earth."
+      - "You can relate to common experiences."
+    flaws:
+      - "You can be seen as boring and uninspired."
+      - "Your lack of originality may hinder creativity."
+  
+  - name: "Beespeaker"
+    category: "Logos"
+    description: "Understands the secret life of bees."
+    boons:
+      - "You have a deep understanding of bee behavior."
+      - "You can communicate and work effectively with bees."
+    flaws:
+      - "Your focus on bees may seem eccentric."
+      - "You may struggle to relate to people who do not share your interest."
+  
+  - name: "Blind"
+    category: "Logos"
+    description: "Having near or total loss of sight."
+    boons:
+      - "You are highly observant and attentive to other senses."
+      - "You can navigate the world in unique ways."
+    flaws:
+      - "You may struggle with visual tasks."
+      - "Your blindness can lead to misunderstandings."
+  
+  - name: "Caliban"
+    category: "Logos"
+    description: "Brutish and violent."
+    boons:
+      - "You are strong and intimidating."
+      - "You can handle physical confrontations effectively."
+    flaws:
+      - "You can be seen as aggressive and uncontrollable."
+      - "Your violence may lead to trouble."
+  
+  - name: "Condescending"
+    category: "Logos"
+    description: "Speaking with a tone of superiority."
+    boons:
+      - "You are confident and assertive."
+      - "You can take charge in situations."
+    flaws:
+      - "You can be seen as arrogant and patronizing."
+      - "Your tone may alienate others."
+  
+  - name: "Desultory"
+    category: "Logos"
+    description: "Lacking a plan, purpose, and especially enthusiasm."
+    boons:
+      - "You are flexible and adaptable."
+      - "You can handle unexpected situations well."
+    flaws:
+      - "You can be seen as aimless and unmotivated."
+      - "Your lack of enthusiasm may hinder progress."
+  
+  - name: "Eloquent"
+    category: "Logos"
+    description: "Speaking in an articulate and dignified manner."
+    boons:
+      - "You are persuasive and articulate."
+      - "You can inspire others with your words."
+    flaws:
+      - "You can be seen as verbose and pretentious."
+      - "Your eloquence may intimidate others."
+  
+  - name: "Esoteric"
+    category: "Logos"
+    description: "Speaking in abstractions understood by few."
+    boons:
+      - "You have a deep understanding of complex topics."
+      - "You can offer unique insights."
+    flaws:
+      - "You can be seen as obscure and difficult to understand."
+      - "Your abstractions may confuse others."
+  
+  - name: "Faber"
+    category: "Logos"
+    description: "Having the propensity or urge to create."
+    boons:
+      - "You are creative and innovative."
+      - "You can produce unique and valuable creations."
+    flaws:
+      - "You can be seen as obsessive about your creations."
+      - "Your focus on creation may lead to neglect of other areas."
+  
+  - name: "Gerbil Brain"
+    category: "Logos"
+    description: "Tending to think of minute, seemingly useless details in short periods."
+    boons:
+      - "You are detail-oriented and thorough."
+      - "You can notice things others might miss."
+    flaws:
+      - "You can be seen as distracted and unfocused."
+      - "Your focus on minutiae may hinder overall progress."
+  
+  - name: "Gifted"
+    category: "Logos"
+    description: "Able to understand and use the Arcane arts."
+    boons:
+      - "You have a natural talent for the Arcane."
+      - "You can perform magical feats with ease."
+    flaws:
+      - "You can be seen as arrogant about your abilities."
+      - "Your focus on the Arcane may isolate you from others."
+  
+  - name: "Hypergraphic"
+    category: "Logos"
+    description: "Suffering a strong urge to write or draw."
+    boons:
+      - "You are highly creative and expressive."
+      - "You can produce a large volume of work."
+    flaws:
+      - "You can be seen as obsessive about your writing or drawing."
+      - "Your focus on your work may lead to neglect of other areas."
+  
+  - name: "Hypochondriac"
+    category: "Logos"
+    description: "Obsessive about one's health."
+    boons:
+      - "You are highly attentive to your health and well-being."
+      - "You can detect potential health issues early."
+    flaws:
+      - "You can be seen as overly anxious about your health."
+      - "Your obsession may lead to unnecessary stress."
+  
+  - name: "Illiterate"
+    category: "Logos"
+    description: "Lacking literacy."
+    boons:
+      - "You are resourceful and find alternative ways to understand information."
+      - "You can develop strong verbal communication skills."
+    flaws:
+      - "You can be seen as uneducated."
+      - "Your lack of literacy may limit your opportunities."
+  
+  - name: "Inane"
+    category: "Logos"
+    description: "Acting in a silly or stupid manner."
+    boons:
+      - "You can bring humor and light-heartedness to situations."
+      - "You can diffuse tension with your silliness."
+    flaws:
+      - "You can be seen as immature and foolish."
+      - "Your inane behavior may not be taken seriously."
+  
+  - name: "Laconic"
+    category: "Logos"
+    description: "Using few words."
+    boons:
+      - "You are concise and to the point."
+      - "You can communicate effectively without wasting words."
+    flaws:
+      - "You can be seen as terse and uncommunicative."
+      - "Your brevity may lead to misunderstandings."
+  
+  - name: "Litanous"
+    category: "Logos"
+    description: "Repeating phrases or words mindlessly."
+    boons:
+      - "You are persistent and consistent."
+      - "You can reinforce important points through repetition."
+    flaws:
+      - "You can be seen as monotonous and annoying."
+      - "Your repetition may bore or irritate others."
+  
+  - name: "Methodical"
+    category: "Logos"
+    description: "Particularly slow but accurate."
+    boons:
+      - "You are thorough and precise."
+      - "You can achieve high accuracy in your work."
+    flaws:
+      - "You can be seen as slow and plodding."
+      - "Your methodical approach may delay progress."
+  
+  - name: "Myopic"
+    category: "Logos"
+    description: "Having intense attention to detail."
+    boons:
+      - "You are highly detail-oriented."
+      - "You can catch small errors that others might miss."
+    flaws:
+      - "You can be seen as overly focused on minutiae."
+      - "Your attention to detail may hinder your ability to see the big picture."
+  
+  - name: "Neurotic"
+    category: "Logos"
+    description: "Having lost a part of oneself in a terrible internal conflict."
+    boons:
+      - "You are introspective and self-aware."
+      - "You can understand and navigate complex emotions."
+    flaws:
+      - "You can be seen as anxious and unstable."
+      - "Your internal conflicts may affect your mental well-being."
+  
+  - name: "Paranoid"
+    category: "Logos"
+    description: "Having delusions of conspiracy against oneself."
+    boons:
+      - "You are vigilant and cautious."
+      - "You can detect hidden threats and dangers."
+    flaws:
+      - "You can be seen as irrational and fearful."
+      - "Your paranoia may lead to isolation and mistrust."
+  
+  - name: "Parsimonious"
+    category: "Logos"
+    description: "Being exceptionally frugal and/or miserly."
+    boons:
+      - "You are highly resourceful and can make the most of limited resources."
+      - "You can save money and avoid unnecessary expenses."
+    flaws:
+      - "You can be seen as stingy and unwilling to spend."
+      - "Your frugality may lead to missed opportunities."
+  
+  - name: "Poetaster"
+    category: "Logos"
+    description: "Speaking in poetically broken rhythm and rhyme."
+    boons:
+      - "You have a unique and creative way of expressing yourself."
+      - "You can captivate others with your poetic speech."
+    flaws:
+      - "You can be seen as pretentious or difficult to understand."
+      - "Your broken rhythm may confuse others."
+  
+  - name: "Polar"
+    category: "Logos"
+    description: "Having two or more distinct personalities."
+    boons:
+      - "You are adaptable and can handle various situations."
+      - "You can offer diverse perspectives."
+    flaws:
+      - "You can be seen as inconsistent or unpredictable."
+      - "Your distinct personalities may lead to internal conflict."
+  
+  - name: "Practical"
+    category: "Logos"
+    description: "Concerned with reality over theory."
+    boons:
+      - "You are realistic and grounded."
+      - "You can find practical solutions to problems."
+    flaws:
+      - "You can be seen as unimaginative or lacking vision."
+      - "Your focus on practicality may limit creativity."
+  
+  - name: "Pseudonymous"
+    category: "Logos"
+    description: "Preferring one or more false names."
+    boons:
+      - "You can maintain anonymity and protect your identity."
+      - "You can reinvent yourself as needed."
+    flaws:
+      - "You can be seen as deceptive or untrustworthy."
+      - "Your use of false names may lead to confusion."
+  
+  - name: "Psychotic"
+    category: "Logos"
+    description: "Losing touch with reality."
+    boons:
+      - "You can think outside the box and come up with unconventional ideas."
+      - "You may have unique insights that others miss."
+    flaws:
+      - "You can be seen as unstable or dangerous."
+      - "Your detachment from reality may lead to harmful behavior."
+  
+  - name: "Punch-Drunk"
+    category: "Logos"
+    description: "Easily stupefied by pain and/or violence."
+    boons:
+      - "You have a high tolerance for pain."
+      - "You can endure physical confrontations."
+    flaws:
+      - "You can be seen as reckless and careless."
+      - "Your stupefaction may lead to poor decision-making."
+  
+  - name: "Sarcastic"
+    category: "Logos"
+    description: "Favoring ironic cynicism and the ridicule of standards."
+    boons:
+      - "You are witty and sharp-tongued."
+      - "You can use sarcasm to diffuse tension."
+    flaws:
+      - "You can be seen as cynical and negative."
+      - "Your sarcasm may offend others."
+  
+  - name: "Seer"
+    category: "Logos"
+    description: "Having the ability and curse of foresight."
+    boons:
+      - "You can predict future events."
+      - "You can prepare for potential outcomes."
+    flaws:
+      - "You can be seen as mysterious and cryptic."
+      - "Your foresight may lead to anxiety about the future."
+  
+  - name: "Semantical"
+    category: "Logos"
+    description: "Being definitively accurate in one's speech."
+    boons:
+      - "You are precise and clear in communication."
+      - "You can avoid misunderstandings."
+    flaws:
+      - "You can be seen as pedantic and nitpicky."
+      - "Your focus on accuracy may frustrate others."
+  
+  - name: "Sesquipedalian"
+    category: "Logos"
+    description: "Speaking in lengthy and verbose terms."
+    boons:
+      - "You have a rich vocabulary."
+      - "You can articulate complex ideas."
+    flaws:
+      - "You can be seen as verbose and long-winded."
+      - "Your lengthy speech may bore others."
+  
+  - name: "Sleuth"
+    category: "Logos"
+    description: "Intrigued by mystery and the unknown."
+    boons:
+      - "You are curious and investigative."
+      - "You can uncover hidden truths."
+    flaws:
+      - "You can be seen as nosy and intrusive."
+      - "Your curiosity may lead to trouble."
+  
+  - name: "Softened Brain"
+    category: "Logos"
+    description: "Having memory loss or issues."
+    boons:
+      - "You can start anew without the burden of past mistakes."
+      - "You may have hidden talents or skills."
+    flaws:
+      - "You may struggle to recall important information."
+      - "Your memory issues may lead to confusion."
+  
+  - name: "Trademarked"
+    category: "Logos"
+    description: "Obsessed with a specific, perfected vision of oneself."
+    boons:
+      - "You are highly focused and driven."
+      - "You can achieve a high level of personal branding."
+    flaws:
+      - "You can be seen as narcissistic and self-absorbed."
+      - "Your obsession may lead to unrealistic expectations."
+  
+  - name: "Whelver"
+    category: "Logos"
+    description: "A keeper or burier of secrets."
+    boons:
+      - "You are trustworthy and discreet."
+      - "You can protect sensitive information."
+    flaws:
+      - "You can be seen as secretive and untrustworthy."
+      - "Your secrecy may lead to isolation."

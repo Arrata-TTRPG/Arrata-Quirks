@@ -1,0 +1,340 @@
+﻿quirks:
+  - name: "Addicted"
+    category: "Pathos"
+    description: "Having a dependency on an addictive substance or action."
+    boons:
+      - "You have a high tolerance for certain substances."
+      - "You can understand and empathize with others who have dependencies."
+    flaws:
+      - "You are prone to addiction and dependency."
+      - "Your addiction can lead to destructive behavior."
+  
+  - name: "Aloof"
+    category: "Pathos"
+    description: "Uninterested."
+    boons:
+      - "You are detached and not easily swayed by emotions."
+      - "You can remain calm in stressful situations."
+    flaws:
+      - "You can be seen as cold and unapproachable."
+      - "Your detachment may lead to isolation."
+  
+  - name: "Apian"
+    category: "Pathos"
+    description: "Having intimate knowledge of the inner workings of bee society."
+    boons:
+      - "You have a deep understanding of bee behavior."
+      - "You can communicate and work effectively with bees."
+    flaws:
+      - "Your focus on bees may seem eccentric."
+      - "You may struggle to relate to people who do not share your interest."
+  
+  - name: "Conchie"
+    category: "Pathos"
+    description: "Unwilling to engage in violence or war."
+    boons:
+      - "You are a pacifist and advocate for peace."
+      - "You can find non-violent solutions to conflicts."
+    flaws:
+      - "You may be seen as cowardly or unpatriotic."
+      - "Your refusal to fight can lead to personal danger."
+  
+  - name: "Coniptious"
+    category: "Pathos"
+    description: "Prone to rage or hysterics."
+    boons:
+      - "You are passionate and expressive."
+      - "You can intimidate others with your intensity."
+    flaws:
+      - "You can be seen as unstable and unpredictable."
+      - "Your outbursts can alienate others."
+  
+  - name: "Cookie"
+    category: "Pathos"
+    description: "Particularly sweet and kind."
+    boons:
+      - "You are kind-hearted and compassionate."
+      - "You can easily make friends and allies."
+    flaws:
+      - "You can be seen as naive or overly trusting."
+      - "Your kindness may be exploited by others."
+  
+  - name: "Cringeworthy"
+    category: "Pathos"
+    description: "Prone to awkwardness or embarrassment."
+    boons:
+      - "You are humble and self-aware."
+      - "You can learn from your mistakes."
+    flaws:
+      - "You can be seen as socially awkward."
+      - "Your embarrassment can hinder your confidence."
+  
+  - name: "Deaf"
+    category: "Pathos"
+    description: "Having near or total hearing loss."
+    boons:
+      - "You are highly observant and attentive."
+      - "You can communicate effectively through other means."
+    flaws:
+      - "You may struggle with verbal communication."
+      - "Your hearing loss can lead to misunderstandings."
+  
+  - name: "Defeatist"
+    category: "Pathos"
+    description: "Often believing in a pessimistic outcome."
+    boons:
+      - "You are realistic and prepared for the worst."
+      - "You can avoid disappointment by managing expectations."
+    flaws:
+      - "You can be seen as negative and unmotivated."
+      - "Your pessimism can hinder your success."
+  
+  - name: "Dour"
+    category: "Pathos"
+    description: "Relentlessly gloomy in appearance and action."
+    boons:
+      - "You are serious and focused."
+      - "You can handle difficult situations with composure."
+    flaws:
+      - "You can be seen as depressing and unapproachable."
+      - "Your gloominess can affect your relationships."
+  
+  - name: "Flatterer"
+    category: "Pathos"
+    description: "Obsessively patronizing."
+    boons:
+      - "You are charming and persuasive."
+      - "You can make others feel valued and appreciated."
+    flaws:
+      - "You can be seen as insincere and manipulative."
+      - "Your flattery may not be taken seriously."
+  
+  - name: "Happy-Go-Lucky"
+    category: "Pathos"
+    description: "Ignorantly pleased with life."
+    boons:
+      - "You are optimistic and cheerful."
+      - "You can bring positivity to those around you."
+    flaws:
+      - "You can be seen as naive and unrealistic."
+      - "Your ignorance may lead to poor decisions."
+  
+  - name: "Haunted"
+    category: "Pathos"
+    description: "Harried by a past tragedy or mistake."
+    boons:
+      - "You are introspective and reflective."
+      - "You can learn from your past experiences."
+    flaws:
+      - "You can be seen as brooding and troubled."
+      - "Your past may hinder your present happiness."
+  
+  - name: "Heartless"
+    category: "Pathos"
+    description: "Horrifyingly ruthless."
+    boons:
+      - "You are determined and unyielding."
+      - "You can make tough decisions without hesitation."
+    flaws:
+      - "You can be seen as cruel and unfeeling."
+      - "Your ruthlessness can alienate others."
+  
+  - name: "Jubilant"
+    category: "Pathos"
+    description: "Triumphant and having great happiness."
+    boons:
+      - "You are joyful and enthusiastic."
+      - "You can inspire others with your happiness."
+    flaws:
+      - "You can be seen as overly exuberant."
+      - "Your joy may seem inappropriate in serious situations."
+  
+  - name: "Loner"
+    category: "Pathos"
+    description: "Preferring not to associate with others."
+    boons:
+      - "You are independent and self-sufficient."
+      - "You can work well on your own."
+    flaws:
+      - "You can be seen as antisocial."
+      - "Your isolation may lead to loneliness."
+  
+  - name: "Mawkish"
+    category: "Pathos"
+    description: "Having extremely strong emotional reactions."
+    boons:
+      - "You are empathetic and sensitive."
+      - "You can connect deeply with others."
+    flaws:
+      - "You can be seen as overly sentimental."
+      - "Your strong emotions may overwhelm others."
+  
+  - name: "Minikin"
+    category: "Pathos"
+    description: "Being of delicate or dainty design."
+    boons:
+      - "You are agile and can move quickly."
+      - "You can fit into small spaces."
+    flaws:
+      - "You can be seen as weak and fragile."
+      - "Your small size may make you a target."
+  
+  - name: "Narcissistic"
+    category: "Pathos"
+    description: "Self-absorbed."
+    boons:
+      - "You have high self-confidence."
+      - "You can be very persuasive."
+    flaws:
+      - "You can be seen as arrogant and self-centered."
+      - "Your self-absorption may alienate others."
+  
+  - name: "Napoleonic"
+    category: "Pathos"
+    description: "Aggressively overcompensating for one's shortcomings."
+    boons:
+      - "You are determined and ambitious."
+      - "You can inspire others with your drive."
+    flaws:
+      - "You can be seen as overbearing and aggressive."
+      - "Your overcompensation may lead to conflicts."
+  
+  - name: "Phobic"
+    category: "Pathos"
+    description: "Holding extreme fear or anxiety for something."
+    boons:
+      - "You are cautious and alert."
+      - "You can avoid potential dangers."
+    flaws:
+      - "You can be seen as irrational and fearful."
+      - "Your phobias may limit your activities."
+  
+  - name: "Poignant"
+    category: "Pathos"
+    description: "Holding bittersweet memories."
+    boons:
+      - "You are reflective and thoughtful."
+      - "You can empathize with others' experiences."
+    flaws:
+      - "You can be seen as melancholic."
+      - "Your memories may hinder your present happiness."
+  
+  - name: "Pompous"
+    category: "Pathos"
+    description: "Being irritatingly selfish."
+    boons:
+      - "You have strong self-assurance."
+      - "You can take charge in situations."
+    flaws:
+      - "You can be seen as arrogant and condescending."
+      - "Your selfishness may alienate others."
+  
+  - name: "Prier"
+    category: "Pathos"
+    description: "Seeking answers to a particular question."
+    boons:
+      - "You are curious and inquisitive."
+      - "You can uncover hidden truths."
+    flaws:
+      - "You can be seen as intrusive."
+      - "Your curiosity may lead to trouble."
+  
+  - name: "Raisin"
+    category: "Pathos"
+    description: "Lacking empathy."
+    boons:
+      - "You are logical and objective."
+      - "You can make tough decisions without emotional bias."
+    flaws:
+      - "You can be seen as cold and unfeeling."
+      - "Your lack of empathy may hinder relationships."
+  
+  - name: "Recherché"
+    category: "Pathos"
+    description: "Seemingly foreign."
+    boons:
+      - "You are unique and intriguing."
+      - "You can offer fresh perspectives."
+    flaws:
+      - "You can be seen as strange and out of place."
+      - "Your foreignness may lead to misunderstandings."
+  
+  - name: "Relimerant"
+    category: "Pathos"
+    description: "Quick to, or holding irrational concerns and desires for something."
+    boons:
+      - "You are passionate and driven."
+      - "You can pursue your goals with determination."
+    flaws:
+      - "You can be seen as obsessive."
+      - "Your irrational concerns may lead to stress."
+  
+  - name: "Romantic"
+    category: "Pathos"
+    description: "Holding naïve beliefs about love."
+    boons:
+      - "You are hopeful and idealistic."
+      - "You can inspire others with your vision of love."
+    flaws:
+      - "You can be seen as unrealistic."
+      - "Your naivety may lead to disappointment."
+  
+  - name: "Saddened Heart"
+    category: "Pathos"
+    description: "Emotionally fragile and mopey."
+    boons:
+      - "You are sensitive and empathetic."
+      - "You can connect deeply with others."
+    flaws:
+      - "You can be seen as overly emotional."
+      - "Your fragility may make you vulnerable."
+  
+  - name: "Sardonic"
+    category: "Pathos"
+    description: "Prone to skeptical or mockingly cynical humor."
+    boons:
+      - "You are witty and sharp."
+      - "You can see through pretenses."
+    flaws:
+      - "You can be seen as cynical and negative."
+      - "Your humor may offend others."
+  
+  - name: "Tender"
+    category: "Pathos"
+    description: "Gentle and soothing."
+    boons:
+      - "You are kind-hearted and compassionate."
+      - "You can easily make friends and allies."
+    flaws:
+      - "You can be seen as naive or overly trusting."
+      - "Your kindness may be exploited by others."
+  
+  - name: "Tortfeasor"
+    category: "Pathos"
+    description: "Prone to being liable or accused of wrongdoings."
+    boons:
+      - "You are resourceful and adaptable."
+      - "You can navigate complex situations."
+    flaws:
+      - "You can be seen as untrustworthy."
+      - "Your actions may lead to legal trouble."
+  
+  - name: "Whisperer"
+    category: "Pathos"
+    description: "Having unusually strong relationships with animals."
+    boons:
+      - "You can communicate effectively with animals."
+      - "You can gain the trust of animals easily."
+    flaws:
+      - "You can be seen as eccentric."
+      - "Your focus on animals may seem odd to others."
+  
+  - name: "Wholesome"
+    category: "Pathos"
+    description: "Naturally inspires moral and emotional well-being."
+    boons:
+      - "You are healthy and vibrant."
+      - "You can inspire others with your positive lifestyle."
+    flaws:
+      - "You can be seen as naive and overly idealistic."
+      - "Your wholesomeness may seem unrealistic to others."

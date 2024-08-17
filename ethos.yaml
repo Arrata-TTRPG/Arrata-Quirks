@@ -1,0 +1,420 @@
+quirks:
+  - name: "Aggregate"
+    category: "Ethos"
+    description: "Inclined to ease the tension of dangerous situations."
+    boons:
+      - "You can defuse conflicts with your calm demeanor."
+      - "People often look to you for mediation."
+    flaws:
+      - "You may avoid necessary confrontations."
+      - "Some may see you as insincere or weak."
+  
+  - name: "Amenable"
+    category: "Ethos"
+    description: "Easily persuaded or influenced."
+    boons:
+      - "You are open to new ideas and perspectives."
+      - "People find you agreeable and cooperative."
+    flaws:
+      - "You can be easily manipulated by others."
+      - "You may lack conviction in your own beliefs."
+  
+  - name: "Anarchist"
+    category: "Ethos"
+    description: "Refusing to recognize authority."
+    boons:
+      - "You are fiercely independent and free-thinking."
+      - "You inspire others to question the status quo."
+    flaws:
+      - "You often clash with figures of authority."
+      - "Your rebellious nature can lead to isolation."
+  
+  - name: "Badged"
+    category: "Ethos"
+    description: "Easily provoked into policing others’ actions."
+    boons:
+      - "You are always on the lookout for trouble."
+      - "You protect those around you with vigilance."
+    flaws:
+      - "You can be overbearing and intrusive."
+      - "Your constant vigilance can lead to paranoia."
+  
+  - name: "Based"
+    category: "Ethos"
+    description: "Holding opinions without regard for others."
+    boons:
+      - "You are confident in your beliefs."
+      - "You are not easily swayed by others."
+    flaws:
+      - "You can be seen as insensitive or dogmatic."
+      - "You may struggle to compromise."
+  
+  - name: "Bastard"
+    category: "Ethos"
+    description: "Being of an un-sanctioned birthright."
+    boons:
+      - "You are resilient and resourceful."
+      - "You have learned to thrive despite adversity."
+    flaws:
+      - "You may face social stigma and discrimination."
+      - "You often feel like an outsider."
+  
+  - name: "Bigot"
+    category: "Ethos"
+    description: "Having fervent beliefs that are illogical and often prejudiced."
+    boons:
+      - "You are passionate and determined."
+      - "You inspire others with your fervor."
+    flaws:
+      - "You can be intolerant and narrow-minded."
+      - "Your beliefs may alienate others."
+  
+  - name: "Blessed"
+    category: "Ethos"
+    description: "Favored by a particular god or entity."
+    boons:
+      - "You are blessed and protected by a higher power."
+      - "You often receive divine guidance."
+    flaws:
+      - "You may become dependent on divine favor."
+      - "Others may see you as entitled."
+  
+  - name: "Castigator"
+    category: "Ethos"
+    description: "Inclined to harsh punishment and criticisms."
+    boons:
+      - "You are disciplined and principled."
+      - "You hold others to high standards."
+    flaws:
+      - "You can be unforgiving and severe."
+      - "Your harshness may drive people away."
+  
+  - name: "Conspiracist"
+    category: "Ethos"
+    description: "Prone to establishing or believing grand and often outlandish theories and conspiracies."
+    boons:
+      - "You are imaginative and inquisitive."
+      - "You question the official narrative."
+    flaws:
+      - "You can be paranoid and distrustful."
+      - "Your theories may alienate others."
+  
+  - name: "Corrupt"
+    category: "Ethos"
+    description: "Willing to act dishonestly for personal gains."
+    boons:
+      - "You are clever and resourceful."
+      - "You can navigate complex situations with ease."
+    flaws:
+      - "You are untrustworthy and selfish."
+      - "Your deceit may lead to isolation."
+  
+  - name: "Cursed"
+    category: "Ethos"
+    description: "Having a terrible power or ailment."
+    boons:
+      - "You possess a unique and powerful ability."
+      - "You are resilient in the face of adversity."
+    flaws:
+      - "Your power comes with a heavy burden."
+      - "You are often feared and misunderstood."
+  
+  - name: "Degenerate"
+    category: "Ethos"
+    description: "Losing or lacking moral, mental, or physical virtues."
+    boons:
+      - "You are adaptable and a survivor."
+      - "You can thrive in difficult circumstances."
+    flaws:
+      - "You are seen as unreliable and untrustworthy."
+      - "Your lack of virtues may lead to social isolation."
+  
+  - name: "Diegetic"
+    category: "Ethos"
+    description: "Interested in the workings and functions of the world."
+    boons:
+      - "You are analytical and inquisitive."
+      - "You have a deep understanding of the world."
+    flaws:
+      - "You can be detached and obsessive."
+      - "Your curiosity may lead you into danger."
+  
+  - name: "Dissonant"
+    category: "Ethos"
+    description: "Being out of focus with the realities of the world."
+    boons:
+      - "You are creative and visionary."
+      - "You inspire others with your ideas."
+    flaws:
+      - "You can be unrealistic and distracted."
+      - "Your dreams may lead to disappointment."
+  
+  - name: "Eclectic"
+    category: "Ethos"
+    description: "Having a diverse range of interests and ideas."
+    boons:
+      - "You are versatile and open-minded."
+      - "You can adapt to various situations."
+    flaws:
+      - "You can be unfocused and erratic."
+      - "Your diverse interests may lead to inconsistency."
+  
+  - name: "Entropic"
+    category: "Ethos"
+    description: "Prone to chaos."
+    boons:
+      - "You are unpredictable and dynamic."
+      - "You thrive in chaotic environments."
+    flaws:
+      - "You can be unstable and disruptive."
+      - "Your chaotic nature may lead to conflict."
+  
+  - name: "Extrovert"
+    category: "Ethos"
+    description: "Naturally social and outgoing."
+    boons:
+      - "You are charismatic and friendly."
+      - "You easily make connections with others."
+    flaws:
+      - "You may be seen as attention-seeking."
+      - "Your sociability can be overbearing."
+  
+  - name: "Genteel"
+    category: "Ethos"
+    description: "Being exaggeratedly fine in manner."
+    boons:
+      - "You are elegant and polished."
+      - "You have a refined sense of style."
+    flaws:
+      - "You can be pretentious and snobbish."
+      - "Your exaggerated manner may alienate others."
+  
+  - name: "Hardened"
+    category: "Ethos"
+    description: "Not easily disturbed or stirred."
+    boons:
+      - "You are calm and composed."
+      - "You handle stress well."
+    flaws:
+      - "You can be seen as apathetic."
+      - "Your stoicism may make you seem unemotional."
+  
+  - name: "Intractable"
+    category: "Ethos"
+    description: "Hard to control or deal with peaceably."
+    boons:
+      - "You are strong-willed and determined."
+      - "You do not easily give up."
+    flaws:
+      - "You can be stubborn and unyielding."
+      - "Your unruly nature may lead to conflict."
+  
+  - name: "Introvert"
+    category: "Ethos"
+    description: "Naturally unsociable and pensive."
+    boons:
+      - "You are thoughtful and independent."
+      - "You work well alone."
+    flaws:
+      - "You can be seen as aloof."
+      - "Your reclusiveness may lead to isolation."
+  
+  - name: "Langstrothian"
+    category: "Ethos"
+    description: "Preferring collectivism."
+    boons:
+      - "You are cooperative and community-oriented."
+      - "You value teamwork."
+    flaws:
+      - "You can be seen as conformist."
+      - "Your collectivism may lead to dependency."
+  
+  - name: "Loyal"
+    category: "Ethos"
+    description: "Having firm allegiance to a person or persons."
+    boons:
+      - "You are loyal and trustworthy."
+      - "You inspire confidence in others."
+    flaws:
+      - "You can be blindly obedient."
+      - "Your loyalty may lead to uncritical support."
+  
+  - name: "Maligned"
+    category: "Ethos"
+    description: "Believing that society is wretched."
+    boons:
+      - "You are a critical thinker."
+      - "You question societal norms."
+    flaws:
+      - "You can be pessimistic and cynical."
+      - "Your misanthropy may lead to isolation."
+  
+  - name: "Noble"
+    category: "Ethos"
+    description: "Having lofty moral principles."
+    boons:
+      - "You are honorable and virtuous."
+      - "You inspire others with your ideals."
+    flaws:
+      - "You can be self-righteous."
+      - "Your high standards may be unrealistic."
+  
+  - name: "Obedient"
+    category: "Ethos"
+    description: "Following a given authority, even to a fault."
+    boons:
+      - "You are disciplined and loyal."
+      - "You provide stability in groups."
+    flaws:
+      - "You can be submissive and unquestioning."
+      - "Your obedience may lead to exploitation."
+  
+  - name: "Pariah"
+    category: "Ethos"
+    description: "A shunned outcast."
+    boons:
+      - "You are resilient and independent."
+      - "You thrive despite adversity."
+    flaws:
+      - "You are often isolated."
+      - "Your status as an outcast may lead to stigma."
+  
+  - name: "Partisan"
+    category: "Ethos"
+    description: "Biased in favor of a specific cause."
+    boons:
+      - "You are passionate and dedicated."
+      - "You inspire others with your commitment."
+    flaws:
+      - "You can be narrow-minded."
+      - "Your partisanship may lead to conflict."
+  
+  - name: "Pejorative"
+    category: "Ethos"
+    description: "Acting in an often disparaging and derogatory manner."
+    boons:
+      - "You are confident and assertive."
+      - "You do not shy away from confrontation."
+    flaws:
+      - "You can be rude and disrespectful."
+      - "Your derogatory manner may alienate others."
+  
+  - name: "Pickled"
+    category: "Ethos"
+    description: "Having an ineffectual view of hygiene."
+    boons:
+      - "You are carefree and unconcerned with appearances."
+      - "You are not easily bothered by dirt or mess."
+    flaws:
+      - "You can be seen as unhygienic."
+      - "Your lack of hygiene may lead to health issues."
+  
+  - name: "Punic"
+    category: "Ethos"
+    description: "Willing to commit great acts of treachery."
+    boons:
+      - "You are cunning and strategic."
+      - "You can navigate complex situations with ease."
+    flaws:
+      - "You are untrustworthy and deceitful."
+      - "Your treachery may lead to isolation."
+  
+  - name: "Religious"
+    category: "Ethos"
+    description: "Holding belief in a particular faith."
+    boons:
+      - "You are faithful and devout."
+      - "You inspire others with your conviction."
+    flaws:
+      - "You can be dogmatic and intolerant."
+      - "Your faith may lead to conflict with others."
+  
+  - name: "Religious Zealot"
+    category: "Ethos"
+    description: "Furiously rhetorical in one's religion."
+    boons:
+      - "You are passionate and zealous."
+      - "You inspire others with your fervor."
+    flaws:
+      - "You can be fanatical and intolerant."
+      - "Your zealotry may lead to conflict."
+  
+  - name: "Snide"
+    category: "Ethos"
+    description: "Acting in a devious or underhanded manner."
+    boons:
+      - "You are clever and strategic."
+      - "You can navigate complex situations with ease."
+    flaws:
+      - "You are deceitful and untrustworthy."
+      - "Your underhanded tactics may lead to isolation."
+  
+  - name: "Solipsistic"
+    category: "Ethos"
+    description: "Holding a self-centered view of the universe."
+    boons:
+      - "You are confident and self-reliant."
+      - "You inspire others with your independence."
+    flaws:
+      - "You can be narcissistic and selfish."
+      - "Your egoism may lead to conflict."
+  
+  - name: "Staid"
+    category: "Ethos"
+    description: "Being sedate and unadventurous."
+    boons:
+      - "You are calm and reliable."
+      - "You provide stability in groups."
+    flaws:
+      - "You can be seen as boring."
+      - "Your sedate nature may lead to missed opportunities."
+  
+  - name: "Stoic"
+    category: "Ethos"
+    description: "Derives happiness and purpose from virtue."
+    boons:
+      - "You are principled and virtuous."
+      - "You inspire others with your integrity."
+    flaws:
+      - "You can be self-righteous."
+      - "Your high standards may be unrealistic."
+  
+  - name: "Troglodyte"
+    category: "Ethos"
+    description: "Reclusive and hermitted."
+    boons:
+      - "You are thoughtful and independent."
+      - "You work well alone."
+    flaws:
+      - "You can be seen as aloof."
+      - "Your reclusiveness may lead to isolation."
+  
+  - name: "Veritable"
+    category: "Ethos"
+    description: "Acting genuinely or truthfully."
+    boons:
+      - "You are honest and sincere."
+      - "You build trust with others."
+    flaws:
+      - "You can be seen as naive."
+      - "Your honesty may be exploited."
+  
+  - name: "Vigorous"
+    category: "Ethos"
+    description: "Being healthy; full of energy."
+    boons:
+      - "You are energetic and lively."
+      - "You can inspire others with your vitality."
+    flaws:
+      - "You can be seen as overzealous."
+      - "Your energy can be exhausting to others."
+  
+  - name: "Vociferous"
+    category: "Ethos"
+    description: "Passionate, forceful, and intense."
+    boons:
+      - "You are passionate and persuasive."
+      - "You can rally others to your cause."
+    flaws:
+      - "You can be seen as overbearing."
+      - "Your intensity can be intimidating."
