@@ -1,4 +1,4 @@
-use std::{fs::File, io::Read};
+use std::{fs::File, io::{Read, Write}};
 
 use serde_yaml::*;
 use arrata_lib::Quirk;
@@ -76,7 +76,7 @@ fn read_write_to_file(name: String, file_name: String) {
             return;
         }
     };
-    match bincode::serialize_into(&mut f, &quirks) {
+    match f.write_all(bitcode::encode(&quirks).as_slice()) {
         Ok(()) => (),
         Err(err) => {
             eprintln!("Failed to serialize quirks: {}", err);
